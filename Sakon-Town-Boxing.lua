@@ -1,5 +1,5 @@
 -- ⚠️ คำเตือน:มีโอกาสโดนแบน โปรใช้แบบไม่ระมัดระวัง
---[[ MAP- NPC
+--
 Winner Junior --https://discord.gg/XKqBzJv3QP
 ]]--MAP Sakon Town Boxing 
 
